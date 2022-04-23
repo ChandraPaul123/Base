@@ -5,7 +5,9 @@ public class Git {
 		
 		 int a= 15;
 		 if (a%2!=0) {
-			 System.out.println(a+" "+" is odd number bit");
+
+			  System.out.println(a+" "+" is odd number git ");
+
 			
 		}
 		 else {
